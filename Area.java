@@ -20,8 +20,3 @@ public class Area {
         System.out.println("El area del tercer circulo es = "+ ar);
         } 
 }
-
-
-
-
-
